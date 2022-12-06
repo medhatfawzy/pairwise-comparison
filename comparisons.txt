@@ -1,0 +1,45 @@
+PROCUREMENT,  Location
+Quality,  Availability
+Integration,  Cost
+Working Hours,  Availability
+Delivery of the Project,  Team
+Integration,  Working Hours
+Alignment to Vision and Design,  PROCUREMENT
+Cost,  Working Hours
+Alignment to Vision and Design,  Availability
+Alignment to Vision and Design,  Integration
+PROCUREMENT,  Availability
+Quality,  Working Hours
+Integration,  Team
+Alignment to Vision and Design,  Cost
+Cost,  Team
+Delivery of the Project,  Quality
+Quality,  Team
+Delivery of the Project,  Location
+Alignment to Vision and Design,  Working Hours
+PROCUREMENT,  Working Hours
+Location,  Availability
+Team,  Location
+Alignment to Vision and Design,  Team
+Integration,  Quality
+Delivery of the Project,  PROCUREMENT
+PROCUREMENT,  Team
+Cost,  Quality
+Delivery of the Project,  Availability
+Delivery of the Project,  Integration
+Integration,  Location
+Cost,  Location
+Quality,  Location
+Team,  Availability
+Working Hours,  Location
+Alignment to Vision and Design,  Delivery of the Project
+Delivery of the Project,  Cost
+Integration,  PROCUREMENT
+Cost,  PROCUREMENT
+Alignment to Vision and Design,  Quality
+Delivery of the Project,  Working Hours
+Integration,  Availability
+PROCUREMENT,  Quality
+Alignment to Vision and Design,  Location
+Team,  Working Hours
+Cost,  Availability
